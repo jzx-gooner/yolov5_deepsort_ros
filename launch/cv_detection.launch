@@ -1,0 +1,3 @@
+<launch>
+    <node name="cv_detection" pkg="cv_detection" type="cv_detection" output="screen"/>
+</launch>
